@@ -1,4 +1,45 @@
-## Hi there 👋
+## Hi there, I'm Selina 👋
+
+I’m a **full stack software engineer** with a background in **digital advertising** and a passion for building thoughtful, user-centered web applications.
+
+After 8 years in the advertising world—leading multi-million dollar campaigns for top-tier clients like Google—I transitioned into tech to bring my strategic mindset, creativity, and collaboration skills into the world of software engineering.
+
+## 💻 What I Do
+
+- **Full Stack Web Development**  
+  JavaScript | HTML | CSS | React | Node.js | Express | PostgreSQL | REST APIs
+
+- **Creative Problem Solving**  
+  From campaign strategies to code debugging—I'm passionate about solving complex problems with a data-informed and user-focused approach.
+
+- **Teamwork & Collaboration**  
+  I'm a strong communicator who thrives in cross-functional environments and believes in the power of great teamwork.
+
+## 🧠 Skills & Strengths
+
+- Full Stack Development
+- Object-Oriented Programming (OOP)
+- DOM Manipulation
+- Git & GitHub Collaboration
+- Leadership, Communication, and Strategic Thinking
+- Adaptability & Relentless Curiosity
+
+## 🎓 Education
+
+- **Fullstack Academy** — Software Engineering Certificate (2025)  
+- **Rutgers University** — B.S. in Marketing (2016)
+
+## 📫 Let’s Connect!
+
+- 📍 Based in New Jersey, open to hybrid and remote roles  
+- 📧 [Selina.mena@gmail.com](mailto:Selina.mena@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/selina-mena)  
+- 🌐 [GitHub](https://github.com/selina-M28)
+
+---
+
+Thanks for stopping by! I’m actively looking for opportunities where I can grow as an engineer, collaborate with awesome teams, and continue turning ideas into powerful web experiences. Let’s build something great together 🚀
+
 
 <!--
 **Selina-M28/Selina-M28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
