@@ -26,8 +26,8 @@ After 8 years in the advertising world—leading multi-million dollar campaigns 
 
 ## 🎓 Education
 
-- **Fullstack Academy** — Software Engineering Certificate (2025)  
-- **Rutgers University** — B.S. in Marketing (2016)
+- **Fullstack Academy** — Software Engineering Certificate 
+- **Rutgers University** — B.S. in Marketing 
 
 ## 📫 Let’s Connect!
 
