@@ -31,7 +31,7 @@ After 8 years in the advertising world—leading multi-million dollar campaigns 
 
 ## 📫 Let’s Connect!
 
-- 📍 Based in New Jersey, open to hybrid and remote roles  
+- 📍 Based in New Jersey, open to hybrid and remote roles in the Tri-State area  
 - 📧 [Selina.mena@gmail.com](mailto:Selina.mena@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/selina-mena)  
 - 🌐 [GitHub](https://github.com/selina-M28)
