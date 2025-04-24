@@ -2,12 +2,12 @@
 
 I’m a **full stack software engineer** with a background in **digital advertising** and a passion for building thoughtful, user-centered web applications.
 
-After 8 years in the advertising world—leading multi-million dollar campaigns for top-tier clients like Google—I transitioned into tech to bring my strategic mindset, creativity, and collaboration skills into the world of software engineering.
+After 8 years in the advertising world, leading multi-million dollar campaigns for top-tier clients like Google I transitioned into tech to bring my strategic mindset, creativity, and collaboration skills into the world of software engineering.
 
 ## 💻 What I Do
 
 - **Full Stack Web Development**  
-  JavaScript | HTML | CSS | React | Node.js | Express | PostgreSQL | REST APIs
+  JavaScript | HTML | CSS | React | Node.js | Express | PostgreSQL | REST APIs | VS Code
 
 - **Creative Problem Solving**  
   From campaign strategies to code debugging—I'm passionate about solving complex problems with a data-informed and user-focused approach.
