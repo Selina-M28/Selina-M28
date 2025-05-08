@@ -40,7 +40,7 @@ After 8 years in the advertising world, leading multi-million dollar campaigns f
 
 Thanks for stopping by! I’m actively looking for opportunities where I can grow as an engineer, collaborate with awesome teams, and continue turning ideas into powerful web experiences. Let’s build something great together 🚀
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=selina-M28.selina-M28)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Selina-M28.Selina-M28)
 
 <!--
 **Selina-M28/Selina-M28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
